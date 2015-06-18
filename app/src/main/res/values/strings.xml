@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OnTVApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="channels_name">
+        <item>orf1</item>
+        <item>orf2</item>
+        <item>orf3</item>
+        <item>puls4</item>
+        <item>sportplus</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>today</item>
+        <item>tomorrow</item>
+        <item>overmorrow</item>
+    </string-array>
+</resources>
